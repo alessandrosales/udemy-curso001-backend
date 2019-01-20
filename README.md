@@ -1,4 +1,4 @@
-# curso-udemy001-backend
+# udemy-curso001-backend
 Bem-vindo ao Backend. Esta é apenas uma aplicação de testes que será consumida pelos scripts desenvolvidos com Nightmare.js
 
 Após realizar o clone da aplicação você deve acessar a pasta do projeto pelo terminal e executar os seguintes comandos:
