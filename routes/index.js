@@ -14,7 +14,7 @@ const photos = [
 
 /* Rota para a página inicial */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Node.js e Nightmare.js Automações em páginas Web' });
+  res.render('index', { title: 'Node.js e Nightmare.js Automações em Páginas Web' });
 });
 
 /* Rota para a página de posts */
